@@ -6,7 +6,7 @@
         {
             "name": "scp-kpimon-xapp",
             "image": {
-                "registry": "localhost:5000",
+                "registry": "docker-repository.local:5000",
                 "name": "scp-kpimon",
                 "tag": "latest"
             }
